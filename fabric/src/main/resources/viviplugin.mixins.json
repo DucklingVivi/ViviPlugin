@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "org.figuramc.viviplugin.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "minVersion": "0.8",
+  "client": [
+    "EmiSearchMixin"
+  ],
+  "mixins": [
+
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
